@@ -1,0 +1,11 @@
+resources:
+  - url: "https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.96/bin/apache-tomcat-9.0.96.tar.gz"
+    filename: "apache-tomcat-9.0.96.tar.gz"
+    validation:
+      type: "sha512"
+      value: "ef3ac81debbc3a519c43d1fdb1c88ab26a8052af424d81bceccfbd6e663050a06d7aad7960fd5d11c17849829daebbebf33d92ac1158902283d0e534514aab93"
+  - url: "https://repo1.maven.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar"
+    filename: "junit-3.8.1.jar"
+    validation:
+      type: "md5"
+      value: "1f40fb782a4f2cf78f161d32670f7a3a"
