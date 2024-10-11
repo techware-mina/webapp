@@ -9,3 +9,5 @@ resources:
     validation:
       type: "md5"
       value: "8baa1ac1429d446905206d09e5866f3a"
+  - url: "docker://docker.io/library/ubuntu:20.04"
+    tag: "ubuntu:20.04"
